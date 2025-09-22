@@ -5,7 +5,7 @@ Bem-vindo à **TecnoCient** — uma rede dedicada ao desenvolvimento científico
 ---
 
 ## 📌 Repositório em destaque
-🔹 [**tecnocient-standards**](https://github.com/TecnoCient/tecnocient-standards)  
+🔹 [**tecnocient-standards**](https://github.com/Rede-de-Desenvolvimento-TecnoCient/Tecnocient-Standards)  
 Repositório oficial de **padrões, diretrizes e normas internas** da TecnoCient.  
 Aqui você encontrará:
 - 📑 Regras e boas práticas organizacionais  
